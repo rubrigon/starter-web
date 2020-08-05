@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rbrito rbrito@in.in @rbrito
 
 # THANKS
 
