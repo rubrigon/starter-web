@@ -17,6 +17,8 @@ This is example Deployment.
 
 ## How To Contribute 
 
+Como contribuir: bifurca este repositorio y luego envia Solicitudes de extraccion para su revision.
+
 ### Copyright
 
 2020 Git.Training
