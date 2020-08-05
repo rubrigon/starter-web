@@ -16,3 +16,7 @@ This is example propuesta.
 This is example Deployment.
 
 ## How To Contribute 
+
+### Copyright
+
+2020 Git.Training
