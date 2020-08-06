@@ -22,4 +22,4 @@ Como contribuir: bifurca este repositorio y luego envia Solicitudes de extraccio
 
 ### Copyright
 
-2020 Git.Training
+2020 Git.Training. all rights reserverd
